@@ -1,0 +1,34 @@
+{
+  "people": [
+    {
+      "id": "1",
+      "name": "Arvin John M. Salandanan",
+      "email": "arvinsalandanan@gmail.com",
+      "age": 18
+    },
+    {
+      "id": "2",
+      "name": "Oliver Escosura",
+      "email": "olvresc@gmail.com",
+      "age": 27
+    },
+    {
+      "id": "3",
+      "name": "Eugene Enguerra",
+      "email": "ugeenguerra@gmail.com",
+      "age": 15
+    },
+    {
+      "id": "4",
+      "name": "Jay Reduta",
+      "email": "kuyajay@gmail.com",
+      "age": 28
+    },
+    {
+      "id": "5",
+      "name": "Eliza Mapanoo",
+      "email": "mameliza@gmail.com",
+      "age": 45
+    }
+  ]
+}
