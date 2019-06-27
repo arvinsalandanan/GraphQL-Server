@@ -1,4 +1,4 @@
-# Customerbase GraphQL Server
+# User Type GraphQL Server
 
 Node.js/Express CRUD backend using GraphQL and JSON-Server
 
